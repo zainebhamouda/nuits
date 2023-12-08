@@ -1,0 +1,13 @@
+.body{
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('lFODSgnc.png'); /* Remplacez 'chemin/vers/votre/image.jpg' par le chemin de votre image */
+  background-size: cover;
+  background-position: center;
+}
+.header {
+  background-color: #87CEEB; /* Une couleur bleue pour l'en-tête */
+  padding: 20px;
+  text-align: center;
+}
